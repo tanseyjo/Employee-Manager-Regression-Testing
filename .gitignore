@@ -1,0 +1,4 @@
+nightwatch.props.js
+nightwatch.conf.js
+selenium-debug.log
+tests_output
